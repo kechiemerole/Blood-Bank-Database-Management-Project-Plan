@@ -1,4 +1,4 @@
-# Blood-Bank-Database-Management-System-Project
+# Blood-Bank-Database-Management-System-Plan
 **Problem**:
 Problems arise when hospitals are required to retrieve the necessary data to match the blood type of recipients requiring a transfusion in a timely manner. 
 
